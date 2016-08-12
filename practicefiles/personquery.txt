@@ -1,0 +1,9 @@
+hillary or clinton
+hillaryclinton or imwithher or hillary2016
+vote within 5 hillary or vote within 5 clinton
+hate within 5 hillary or hate within 5 clinton
+don't within 7 hillary or don't within 7 clinton
+best within 7 hillary or best within 7 clinton
+president within 7 hillary or president within 7 clinton
+win within 7 hillary or win within 7 clinton
+lose within 7 hillary or lose within 7 clinton

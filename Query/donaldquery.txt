@@ -1,0 +1,9 @@
+donald or trump
+votetrump or trump2016 or donaldtrump
+vote within 5 donald or vote within 5 trump
+hate within 5 donald or hate within 5 trump
+don't within 7 donald or don't within 7 trump
+best within 7 donald or best within 7 trump
+president within 7 donald or president within 7 trump
+win within 5 donald or win within 5 trump
+lose within 5 donald or lose within 5 trump
