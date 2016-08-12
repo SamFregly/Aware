@@ -1,4 +1,6 @@
-# Aware Predictive Analytics was my senior project at Hofstra University. It was built to run on Centos 6/7. The necessary python libraries are only available for Centos 7 and at the start of this project the search algorithm TIPS was only useable on Centos 6. 
+# Aware Predictive Analytics 
+
+This was my senior project at Hofstra University. It was built to run on Centos 6/7. The necessary python libraries are only available for Centos 7 and at the start of this project the search algorithm TIPS was only useable on Centos 6. 
 
 
 The scripts are complete but will currently only work on the hadoop cluster I had at hofstra. I have not yet had the chance to modify them to work on any system. All the file paths that I used while on Hofstra's Big Data Lab are still there. Some of my draft scripts are still currently in there as well. 
